@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class R192211726 {
+public class R192211766 {
     public static int findSingleNumber(int[] nums) {
         Map<Integer, Integer> countMap = new HashMap<>();
 
