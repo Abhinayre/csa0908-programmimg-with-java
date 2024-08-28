@@ -1,4 +1,4 @@
-public class R192211726 {
+public class R192211766 {
     public static void main(String[] args) {
         int x = 8;
         int sqrt = sqrtRounded(x);
