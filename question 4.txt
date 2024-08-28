@@ -1,4 +1,4 @@
-public class R192211726 {
+public class R192211766 {
     public static String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) {
             return "";
