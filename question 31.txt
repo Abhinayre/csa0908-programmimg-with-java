@@ -1,4 +1,4 @@
-public class R192211726 {
+public class R192211766 {
     public static boolean hasCycle(Node head) {
         if (head == null) return false;
 
